@@ -1,0 +1,37 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=2d292034
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "KALI 25-s001.vmdk"
+RW 8323072 SPARSE "KALI 25-s002.vmdk"
+RW 8323072 SPARSE "KALI 25-s003.vmdk"
+RW 8323072 SPARSE "KALI 25-s004.vmdk"
+RW 8323072 SPARSE "KALI 25-s005.vmdk"
+RW 8323072 SPARSE "KALI 25-s006.vmdk"
+RW 8323072 SPARSE "KALI 25-s007.vmdk"
+RW 8323072 SPARSE "KALI 25-s008.vmdk"
+RW 8323072 SPARSE "KALI 25-s009.vmdk"
+RW 8323072 SPARSE "KALI 25-s010.vmdk"
+RW 8323072 SPARSE "KALI 25-s011.vmdk"
+RW 8323072 SPARSE "KALI 25-s012.vmdk"
+RW 8323072 SPARSE "KALI 25-s013.vmdk"
+RW 8323072 SPARSE "KALI 25-s014.vmdk"
+RW 8323072 SPARSE "KALI 25-s015.vmdk"
+RW 983040 SPARSE "KALI 25-s016.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "7832"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "e4f182567728df74898274f12d292034"
+ddb.toolsInstallType = "4"
+ddb.toolsVersion = "12448"
+ddb.uuid = "60 00 C2 95 66 4f 4a 6c-03 bb 19 74 aa 31 6b d5"
+ddb.virtualHWVersion = "21"

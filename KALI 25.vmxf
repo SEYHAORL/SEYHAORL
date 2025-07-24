@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 c4 dd 15 ee 95 8a 3f-ae 53 75 2f 9f 58 28 f6</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">KALI 25.vmx</vmxPathName></VM></Foundry>
